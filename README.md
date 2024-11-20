@@ -1,4 +1,4 @@
-# infy-vcard
+# V-ConneX - VCards
 
 A new Flutter project.
 
